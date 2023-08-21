@@ -42,7 +42,7 @@ Este proyecto es principalmente un esfuerzo personal, pero si tienes sugerencias
 
 ## Licencia
 
-Este juego está bajo la [Licencia FERNA](https://github.com/llferna/ProyectosJava/blob/main/LICENCIA.md) que fomenta el estudio y reuso de los algoritmos. Consulta el archivo `LICENSE` para más detalles.
+Este juego está bajo la [Licencia FERNA](https://github.com/llferna/ProyectosJava/blob/main/LICENCIA.md) que fomenta el estudio y reuso de los algoritmos. Consulta el archivo `LICENCIA` para más detalles.
 
 ---
 
