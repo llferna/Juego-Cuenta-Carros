@@ -4,7 +4,7 @@
 
 ## Acerca del Proyecto
 
-Este proyecto ha sido desarrollado por [Ferna] como un desafío personal y educativo para practicar y mejorar mis habilidades de programación en Java. Ha sido creado especialmente con el IDE "NetBeans".
+Este proyecto ha sido desarrollado por una única persona, [Ferna], como un desafío personal y educativo para practicar y mejorar habilidades de programación en Java. Ha sido creado especialmente con el IDE "NetBeans".
 
 ## Características Principales
 
@@ -47,4 +47,22 @@ Este juego está bajo la [Licencia FERNA](https://github.com/llferna/ProyectosJa
 ---
 
 ¡Diviértete jugando "Cuenta Carros" y contando autos con tus amigos! Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de [lfjauregui.02@gmail.com].
+
+## Actualizaciones Futuras
+
+Estoy comprometido en mejorar continuamente la experiencia del juego "Cuenta Carros". En futuras actualizaciones, puedes esperar:
+
+- **Nuevas Opciones de Juego:** Estamos trabajando en agregar más modos de juego, desafíos y opciones para hacer que la experiencia de contar carros sea aún más emocionante y variada.
+
+- **Mejoras en la Interfaz:** Estamos escuchando tus comentarios y trabajando en mejorar la interfaz gráfica para una experiencia más agradable y amigable.
+
+- **Más Opciones de Personalización:** Planeamos implementar opciones para personalizar aún más tu experiencia de juego, como configuraciones de tiempo y ajustes de dificultad.
+
+- **Estabilidad y Correcciones:** Continuaremos realizando correcciones y mejoras para garantizar un juego sin problemas y una experiencia libre de errores.
+
+¡Mantente atento a las próximas actualizaciones y emocionantes adiciones al juego "Cuenta Carros"!
+
+Si tienes ideas o sugerencias para nuevas características, no dudes en compartirlas. Tu retroalimentación es valiosa y ayudará a hacer que el juego sea aún mejor.
+
+
 
